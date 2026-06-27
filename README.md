@@ -1,6 +1,6 @@
 # <div align="center">
 
-<img src="Screenshots/icon.png" width="110" alt="Port Forwarder Logo"/>
+<img src="Screenshots/app icon.png" width="110" alt="Port Forwarder Logo"/>
 
 # Port Forwarder
 
