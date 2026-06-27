@@ -1,6 +1,6 @@
 # <div align="center">
 
-<img src="docs/screenshots/icon.png" width="110" alt="Port Forwarder Logo"/>
+<img src="docs/Screenshots/icon.png" width="110" alt="Port Forwarder Logo"/>
 
 # Port Forwarder
 
@@ -34,13 +34,22 @@ No login • No signup • No complex setup • HTTPS URL • QR Code • Open S
 
 ---
 
+
 ## 📱 Screenshots
 
-> Screenshots will be added soon.
+<p align="center">
+  <img src="docs/Screenshots/SS_25.png" width="180" alt="Home Screen"/>
+  <img src="docs/Screenshots/SS_26.png" width="180" alt="Enter Port"/>
+  <img src="docs/Screenshots/SS_27.png" width="180" alt="Tunnel Created"/>
+</p>
 
-| Home                                  | Tunnel Active                           | Link                           |
-| ------------------------------------- | --------------------------------------- | --------------------------------- |
-| ![](docs/Screenshots/SS_25.png) | ![](docs/Screenshots/SS_26.png) | ![](docs/Screenshots/SS_27.png) |
+<p align="center">
+  <img src="docs/Screenshots/SS_28.png" width="180" alt="QR Code"/>
+  <img src="docs/Screenshots/SS_29.png" width="180" alt="Tunnel Details"/>
+  <img src="docs/Screenshots/SS_30.png" width="180" alt="Settings"/>
+</p>
+
+
 
 ---
 
