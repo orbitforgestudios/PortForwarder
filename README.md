@@ -38,9 +38,9 @@ No login • No signup • No complex setup • HTTPS URL • QR Code • Open S
 
 > Screenshots will be added soon.
 
-| Home                                  | Tunnel Active                           | QR Code                           |
+| Home                                  | Tunnel Active                           | Link                           |
 | ------------------------------------- | --------------------------------------- | --------------------------------- |
-| ![](docs/screenshots/main_screen.png) | ![](docs/screenshots/tunnel_active.png) | ![](docs/screenshots/qr_code.png) |
+| ![](docs/Screenshots/SS_25.png) | ![](docs/Screenshots/SS_26.png) | ![](docs/Screenshots/SS_27.png) |
 
 ---
 
